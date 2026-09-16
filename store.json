@@ -1,0 +1,12 @@
+{
+  "reports": [],
+  "settings": {
+    "alertThreshold": 65
+  },
+  "callLogs": [],
+  "voiceAgent": {
+    "lastRisks": {},
+    "lastDispatchAt": 0,
+    "lastEvent": null
+  }
+}
